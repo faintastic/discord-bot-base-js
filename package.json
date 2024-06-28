@@ -1,7 +1,7 @@
 {
   "name": "discord-bot-base",
   "version": "1.0.0",
-  "description": "Simple, easy to use discord bot base showing many things that you can do with a discord bot!",
+  "description": "Discord.js V14.15.3 bot base coded in javascript.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
