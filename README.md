@@ -6,7 +6,7 @@ Here is a base source code that I created that uses discord.js V14.15.3 and java
 I found this [source code](https://github.com/tsoxas/base) that was written in typescript and liked how it functioned, and I only use typescript for websites so I decided to rewrite it :)
 
 This bot allows for slash commands and prefixed commands.
-You can enable or disable this functionality in `.env.example` or `.env`
+You can enable or disable this functionality in `.env`
 
 ## Authors
 
