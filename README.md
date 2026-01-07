@@ -1,6 +1,8 @@
 
 # Discord.js V14 Bot Base
 
+**THIS IS A VERY SHITTY CODEBASE, I WOULD RECOMMEND USING THIS https://github.com/faintastic/discord-bot-base**
+
 Here is a base source code that I created that uses discord.js V14.15.3 and javascript.
 
 I found this [source code](https://github.com/tsoxas/base) that was written in typescript and liked how it functioned, and I only use typescript for websites so I decided to rewrite it :)
@@ -10,10 +12,7 @@ You can enable or disable this functionality in `.env`
 
 ## Authors
 
-- [@ripkova](https://www.github.com/ripkova) - Github
-- [@dev_kova](https://twitter.com/dev_kova) - Twitter / X
-- [@ripkova](https://discord.com/users/299477963131453440) - Discord
-- [helenkeller.lol](https://helenkeller.lol) - Personal Website
+- [@faintastic](https://www.github.com/faintastic) - Github
 
 
 
